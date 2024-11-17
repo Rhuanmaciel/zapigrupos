@@ -6,7 +6,7 @@ Ele funciona para a seguinte coisa, adicionar pessoas que vao ser futuros client
 
 # Criar.js
 
-Ele é o codigo responsavel por criar e configurar os codigos, ele usa o admin.txt pra importar um numero para o grupo alem do criador para ser admin, esse numero sera responsavel por adicionar os trabalhadores que vou explicar abaixo como funciona, esse numero vai ser o responsavel por enviar midias nos grupos
+Ele é o codigo responsavel por criar e configurar os grupos, ele usa o admin.txt pra importar um numero para o grupo alem do criador para ser admin, esse numero sera responsavel por adicionar os trabalhadores que vou explicar abaixo como funciona, esse numero vai ser o responsavel por enviar midias nos grupos
 
 # Trabalhadores.js
 
