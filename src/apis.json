@@ -5,7 +5,7 @@
       "url": "https://api.z-api.io/instances/3D81294EB1AFE09020158E8D925EEEA6/token/911E7859DB7D0812F5A65B1D",
       "headers": {
         "content-type": "application/json",
-        "client-token": "Fb7b5768198854027b2eb21557a8be395S"
+        "client-token": "F458cb1893a9b4de887549e387d85df20S"
       },
       "whatsappNumber": "11 94860-1229"
     },
@@ -14,7 +14,7 @@
       "url": "https://api.z-api.io/instances/3D81281BD35660D69CA9F69CB7A0D002/token/A209A6592F5FF7FE71732ECD",
       "headers": {
         "content-type": "application/json",
-        "client-token": "F40b6b0d5aaf1442ea367892130edd30eS"
+        "client-token": "F88ce03a82a6d4567a43f0254610e8d0aS"
       },
       "whatsappNumber": "11 96734-1497"
     },
@@ -23,7 +23,7 @@
       "url": "https://api.z-api.io/instances/3D85DBB99AC510FDD2D6B6C8EB7DE092/token/6BDBE5A719AB3646A14CD385",
       "headers": {
         "content-type": "application/json",
-        "client-token": "F5a5ca2c2a79241a695b0f45bfa8d2144S"
+        "client-token": "F28a970183aa144f3acc07941263f21a3S"
       },
       "whatsappNumber": "11 96510-2128"
     },
@@ -32,9 +32,108 @@
       "url": "https://api.z-api.io/instances/3D85DD879D9C70B261D7FE67851B620D/token/8B51DE2B6549DE4DCD441ECD",
       "headers": {
         "content-type": "application/json",
-        "client-token": "Fdbb3053f84db4330be1b67cb1fd2e746S"
+        "client-token": "F29d87a97a58146b1abe9b311135a5013S"
       },
       "whatsappNumber": "11 98367-9261"
+    },
+    {
+      "id": 5,
+      "url": "https://api.z-api.io/instances/3D8513ACC8E5B0D55829B6C8EB7DE092/token/1BEE2670E067E324829F4394",
+      "headers": {
+        "content-type": "application/json",
+        "client-token": "Fd40423f3337c493b982b2ea4d7eb3155S"
+      },
+      "whatsappNumber": "11 96106-3275"
+    },
+    {
+      "id": 6,
+      "url": "https://api.z-api.io/instances/3D85133EF47130E446D5B6C8EB7DE092/token/D7E541A5641B8D8602D1839A",
+      "headers": {
+        "content-type": "application/json",
+        "client-token": "F519ceb79d1a34ac9a8121ab7cafa71ffS"
+      },
+      "whatsappNumber": "11 96106-2744"
+    },
+    {
+      "id": 7,
+      "url": "https://api.z-api.io/instances/3D8511E2775680A70C78B6C8EB7DE092/token/4248F1317C901AC71241F33E",
+      "headers": {
+        "content-type": "application/json",
+        "client-token": "Fcfde5b25dc274d12acca45619db10bb8S"
+      },
+      "whatsappNumber": "11 96106-2131"
+    },
+    {
+      "id": 8,
+      "url": "https://api.z-api.io/instances/3D8515DDB93560E0432E12544FAF4294/token/BE5A76C8E31E0AD69BBEC56F",
+      "headers": {
+        "content-type": "application/json",
+        "client-token": "F61514fb7b09a408189d4441df34a8803S"
+      },
+      "whatsappNumber": "11 96106-1628"
+    },
+    {
+      "id": 9,
+      "url": "https://api.z-api.io/instances/3D8518AF55DFE0D7E1B212544FAF4294/token/5A8986DE0FB960962E71277B",
+      "headers": {
+        "content-type": "application/json",
+        "client-token": "Fe5dc44c257594e67b64f022349d54203S"
+      },
+      "whatsappNumber": "11 96106-0909"
+    },
+    {
+      "id": 10,
+      "url": "https://api.z-api.io/instances/3D8596BE9B08D0D1F00CB6C8EB7DE092/token/691C234349854767B3AE30C0",
+      "headers": {
+        "content-type": "application/json",
+        "client-token": "Ff28b31c252fa4ba8be2ccac6a6d82453S"
+      },
+      "whatsappNumber": "11 96106-0104"
+    },
+    {
+      "id": 11,
+      "url": "https://api.z-api.io/instances/3D85986FAFDEB0E2A654DAAEB8B02E58/token/9B535ACAF54564DE552C6D0C",
+      "headers": {
+        "content-type": "application/json",
+        "client-token": "F7bea15f82ec04ebca1ef04e9dabfba7bS"
+      },
+      "whatsappNumber": "11 96541-5976"
+    },
+    {
+      "id": 12,
+      "url": "https://api.z-api.io/instances/3D8599731C60408B594112544FAF4294/token/7EC235ABA678C9E9A02069E5",
+      "headers": {
+        "content-type": "application/json",
+        "client-token": "F73f65c2f9b6745b19cd6a256d99416abS"
+      },
+      "whatsappNumber": "11 96541-4474"
+    },
+    {
+      "id": 13,
+      "url": "https://api.z-api.io/instances/3D859A7A7F706015F71512544FAF4294/token/8B8337BDD61AA7C3FEDE91BA",
+      "headers": {
+        "content-type": "application/json",
+        "client-token": "Fb9734ba5356247b7935c1ea908f0b9e2S"
+      },
+      "whatsappNumber": "11 96541-3820"
+    },
+    {
+      "id": 14,
+      "url": "https://api.z-api.io/instances/3D859C1C8AC9801C6FDAB6C8EB7DE092/token/2727C0FECDB6288002FE3AEF",
+      "headers": {
+        "content-type": "application/json",
+        "client-token": "Fbc210cf51ae14705bb3de8969db46c11S"
+      },
+      "whatsappNumber": "11 96541-3153"
+    },
+    {
+      "id": 15,
+      "url": "https://api.z-api.io/instances/3D859CE65EE0C075458CDAAEB8B02E58/token/8AE8F8B36D11E5B3C952CB7D",
+      "headers": {
+        "content-type": "application/json",
+        "client-token": "F49eef20226ec497a9d7c8e3a1231666bS"
+      },
+      "whatsappNumber": "11 96541-2482"
     }
   ]
 }
